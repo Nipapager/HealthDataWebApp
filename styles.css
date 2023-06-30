@@ -1,0 +1,21 @@
+body {
+  background-color: #f0f8ff;
+}
+
+.navbar-brand {
+  color: #007bff;
+}
+
+.nav-link {
+  color: #007bff;
+}
+
+.nav-link:hover {
+  color: #0056b3;
+}
+
+.container {
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+}
